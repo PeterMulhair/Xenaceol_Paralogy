@@ -1,0 +1,7 @@
+Topology	Condition	Count
+T1 Nephrozoa	CC_fail	0
+T2 Xenambulacraria	CC_fail	0
+T3 Xenambulacraria + Paraphyletic Deuterostomia	CC_fail	37
+T1 Nephrozoa	CC_pass	0
+T2 Xenambulacraria	CC_pass	0
+T3 Xenambulacraria + Paraphyletic Deuterostomia	CC_pass	4
