@@ -1,0 +1,8 @@
+Schmidtea Phoronis Capitella Lottia_gi Baseodisc Adineta Gnathosto Loxosoma Macrodasy 
+Schmidtea Phoronis Capitella Lottia_gi Baseodisc Adineta Gnathosto Loxosoma Macrodasy Drosophil Peripatop Priapulus 
+Branchios Ciona_int Gallus_ga Homo_sapi Anneissia Strongylo Saccoglos 
+Hofstenia Xeno_bock Xeno_prof 
+Branchios Ciona_int Gallus_ga Homo_sapi 
+Drosophil Peripatop Priapulus 
+Anneissia Strongylo Saccoglos 
+Schmidtea Phoronis Capitella Lottia_gi Baseodisc Adineta Gnathosto Loxosoma Macrodasy Drosophil Peripatop Priapulus Branchios Ciona_int Gallus_ga Homo_sapi Anneissia Strongylo Saccoglos Hofstenia Xeno_bock Xeno_prof 
