@@ -1,0 +1,19 @@
+Using clan_check to test whether gene trees from Phillipe et al study violate or not clans of known monophyly within the animal tree
+
+Trees from 1173 gene trees (created with IQTree) present in tree_files.txt
+Clans to be tested present in clans.txt are ordered as follows:
+1. Lophotrochozoa
+2. Porifera
+3. Xenacoelomorpha
+4. Chordata
+5. Ecdysozoa
+6. Ambulacraria
+7. Cnidaria
+8. Protostomia
+9. Deuterostomia
+10. Bilateria
+
+
+Script run:
+clan_check -f tree_files.txt -c clans.txt (full gene family set)
+clan_check -f best_tree_files.txt -c clans.txt (gene families annotated as best by phillipe et al monophyly test)
