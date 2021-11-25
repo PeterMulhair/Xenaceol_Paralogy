@@ -12,7 +12,7 @@ INSERT PAPER CITATION HERE
 
 <div align="center">
 <p align="center">
-<img src="https://github.com/PeterMulhair/Xenaceol_Paralogy/blob/main/combined_results/xena_data/data_size.png" width="700" height="40">
+<img src="https://github.com/PeterMulhair/Xenaceol_Paralogy/blob/main/combined_results/xena_data/data_size.png" width="700" height="400">
 </p>
 </div>
 
