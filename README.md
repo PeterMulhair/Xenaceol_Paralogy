@@ -8,3 +8,11 @@ Figures from the paper and the scripts necessary to make them are found in the `
 
 If you use any scripts from this repository please cite:
 INSERT PAPER CITATION HERE
+
+
+<div align="center">
+<p align="center">
+<img src="https://github.com/PeterMulhair/Xenaceol_Paralogy/blob/main/combined_results/xena_data/data_size.pdf" width="500" height="250">
+</p>
+</div>
+
